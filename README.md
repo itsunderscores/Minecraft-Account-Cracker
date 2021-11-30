@@ -11,3 +11,8 @@ Could be improved...
 Accounts go in file: accounts.txt
 Proxies go in file: proxies.txt
 ```
+
+Saves output to:
+- working_canchange.txt = Login successful, Eligble to change username
+- failed.txt = Invalid Login
+- working_cannotchange.txt = Login successful, cannot change username
