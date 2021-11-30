@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mc_Cracker", "mc_Cracker\mc_Cracker.vcxproj", "{B12CF139-C2F9-4160-96C2-6AD0E5885532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12CF139-C2F9-4160-96C2-6AD0E5885532}.Debug|x64.ActiveCfg = Debug|x64
+		{B12CF139-C2F9-4160-96C2-6AD0E5885532}.Debug|x64.Build.0 = Debug|x64
+		{B12CF139-C2F9-4160-96C2-6AD0E5885532}.Debug|x86.ActiveCfg = Debug|Win32
+		{B12CF139-C2F9-4160-96C2-6AD0E5885532}.Debug|x86.Build.0 = Debug|Win32
+		{B12CF139-C2F9-4160-96C2-6AD0E5885532}.Release|x64.ActiveCfg = Release|x64
+		{B12CF139-C2F9-4160-96C2-6AD0E5885532}.Release|x64.Build.0 = Release|x64
+		{B12CF139-C2F9-4160-96C2-6AD0E5885532}.Release|x86.ActiveCfg = Release|Win32
+		{B12CF139-C2F9-4160-96C2-6AD0E5885532}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03A078A4-5B6B-4B68-8E04-1FBD41AD8140}
+	EndGlobalSection
+EndGlobal
