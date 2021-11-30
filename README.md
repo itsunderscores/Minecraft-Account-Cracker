@@ -1,5 +1,4 @@
 # Minecraft Account Cracker
-## C++
 
 Bruteforce Minecraft Accounts and grab username information.
 Could be improved...
